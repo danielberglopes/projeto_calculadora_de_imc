@@ -1,0 +1,44 @@
+header .pai{
+    width: 300px;
+    height: 430px;
+background-color: aliceblue;
+    margin: auto;
+ 
+}
+.pai img{
+    width: 300px;
+    
+}
+legend{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+   
+}
+#id2{
+    width: 145px ;
+}
+#id1{
+    width: 176px;
+}
+#id0{
+    width: 183px;
+}
+#id4{
+    width: 163px;
+}
+.button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 21px;
+    text-decoration: none;
+        width: 90px;
+       height: 30px;
+       color: black;
+       border: 1px solid rgb(97, 94, 94);
+       border-radius: 15px;
+      background-color: rgb(254, 252, 255);
+   
+      text-align: center;
+}
+body{
+   background-color: darkgray;
+}
